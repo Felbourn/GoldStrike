@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <rect name="IconPos">
+        <xmin>184</xmin>
+        <xmax>216</xmax>
+        <ymin>0</ymin>
+        <ymax>32</ymax>
+    </rect>
+    <bool name="WindowVisibleByActiveScene">0</bool>
+    <string name="NavballPosition">0.3644471</string>
+    <string name="NavballScale">0.7780703</string>
+    <string name="GhostPosition">0.1</string>
+    <string name="ProgradeColour">1:1:1</string>
+    <string name="NormalColour">1:1:1</string>
+    <string name="RadialColour">1:1:1</string>
+    <bool name="ENBManeuver">1</bool>
+    <bool name="RadialNormalDuringManeuver">1</bool>
+</config>
